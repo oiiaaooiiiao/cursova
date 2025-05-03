@@ -1,0 +1,81 @@
+body{
+   background-color: gainsboro;
+}
+.www{
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+}
+h3{
+    font-size: 50px;
+}
+.www li{
+	display: inline;
+	font-size: 30px;
+	
+ }
+ .eee{
+    margin: 10% 10% 0 10%;
+    background-color: blue;
+    border-radius: 30px;
+    text-align: center;
+
+}
+.ttt{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: gray;
+    padding: 10px ;
+}
+.ooo{
+	border-radius: 20px;
+	width: 300px;
+	height: 740px;
+	background-color: white;
+	margin:10px;
+	padding: 10px;
+	text-align: center;
+ }
+ .ppp{
+	background-color: lightsalmon;
+	border-radius: 30px;
+	text-align: center;
+	width: 260px;
+	height: 70px;
+	font-size: 25px;
+    margin:10px;
+	padding: 10px;
+ }
+ .aaa{
+	background-color: lightblue;
+	width: 260px;
+	height: 70px;
+	border-radius: 30px;
+    font-size: 25px;
+    margin:10px;
+	padding: 10px;
+ }
+ .card div{
+    width: 210px;
+    height: 405px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 1%;
+    display: inline-block;
+    margin: 5px;
+}
+.iii{
+	border-radius: 10%;
+	background-color: blue;
+	color: white;
+	text-align: center;
+	width: 100px;
+	height: 50px;
+ }
+ .uuu{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
