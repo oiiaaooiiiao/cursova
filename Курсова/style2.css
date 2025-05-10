@@ -1,5 +1,5 @@
 body{
-   background-color: gainsboro;
+   background-color: #fafaff ;
 }
 .www{
     list-style: none;
@@ -32,14 +32,19 @@ a{
 .ooo{
 	border-radius: 20px;
 	width: 300px;
-	height: 740px;
+	height: 450px;
 	background-color: white;
 	margin:10px;
 	padding: 10px;
 	text-align: center;
+	position: absolute;
+	top: 127.5%;
+	left: 0;
  }
+
+
  .ppp{
-	background-color: lightsalmon;
+	background-color:  #ffed54;
 	border-radius: 30px;
 	text-align: center;
 	width: 260px;
@@ -49,7 +54,7 @@ a{
 	padding: 10px;
  }
  .aaa{
-	background-color: lightblue;
+	background-color:#9bf7ff;
 	width: 260px;
 	height: 70px;
 	border-radius: 30px;
@@ -59,12 +64,12 @@ a{
  }
  .card div{
     width: 210px;
-    height: 405px;
+    height: auto;
     background-color: white;
     border-radius: 10px;
     padding: 1%;
     display: inline-block;
-    margin: 5px;
+    margin: 20px 0;
 }
 .iii{
 	border-radius: 10%;
@@ -78,4 +83,32 @@ a{
     width: 200px;
     height: 200px;
     border-radius: 10px;
+}
+.ppp:hover{
+	background-color: #ff8700;
+	color: white;
+ }
+ .aaa:hover{
+	background-color: blue;
+	color: white;
+ }
+
+ footer {
+    background-color: #333;
+    color: white; 
+    text-align: center; 
+    padding: 10px 0; 
+    margin-top: auto; 
+    font-weight: bold; 
+}
+footer img{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	left: 30%;
+}
+
+hr{
+	height: 10px;
+	background-color: #1912e6 ;
 }

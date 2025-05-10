@@ -67,10 +67,10 @@
 	left: 0;
  }
  body{
-	background-color: gainsboro;
+	background-color: #fafaff ;
  }
  .ppp{
-	background-color: lightsalmon;
+	background-color: li;
 	border-radius: 30px;
 	text-align: center;
 	width: 260px;
@@ -78,9 +78,10 @@
 	font-size: 25px;
 	margin:10px;
 	padding: 10px;
+	background-color: #ffed54;
  }
  .aaa{
-	background-color: lightblue;
+	background-color: #9bf7ff;
 	width: 260px;
 	height: 70px;
 	border-radius: 30px;
@@ -90,5 +91,33 @@
  }
 
  .ppp:hover{
-	background-color: orangered;
+	background-color: #ff8700;
+	color: white;
  }
+ .aaa:hover{
+	background-color: blue;
+	color: white;
+ }
+hr{
+	height: 10px;
+	background-color: #ff8700;
+}
+
+
+
+
+footer {
+    background-color: #333;
+    color: white; 
+    text-align: center; 
+    padding: 10px 0; 
+    margin-top: auto; 
+    font-weight: bold; 
+}
+footer img{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	left: 30%;
+}
+
