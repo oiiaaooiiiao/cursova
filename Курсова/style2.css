@@ -1,11 +1,16 @@
-body{
-   background-color: #fafaff ;
-}
+ body{
+	background-image:url(картинки/istockphoto-1401245535-612x612.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+ }
 .www{
     list-style: none;
     margin: 0;
     padding-left: 0;
 }
+ a:hover{
+	font-weight: bold;
+ }
 h3{
     font-size: 50px;
 }
